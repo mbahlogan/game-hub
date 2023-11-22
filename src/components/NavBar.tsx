@@ -9,6 +9,6 @@ function NavBar() {
             <ColorModeSwitch/>
         </HStack>
     );
-}
+} 
 
 export default NavBar;
